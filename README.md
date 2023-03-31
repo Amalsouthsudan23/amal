@@ -3,18 +3,24 @@
 
 # Amal project
 
-    Amal target is to connect the refugees to willing supporters who can offer a helping hand to address their problems so they meet their basic requirements.
-
   <p align="center">
+    Amal target is to connect the refugees to willing supporters who can offer a helping hand to address their problems so they meet their basic requirements,
     What inspired us was being a refugee due to the civil war that took place in April 2016 made me experience the hardship that refugees goes through for example waiting  every month for d food and few basic requirements which doesnt Surstaine refugees for the whole month, poor health centers,  low education systems. Hence i wouldn’t like any human being to go pass through the same the experience.
     <a href="https://amal-v69u.onrender.com/">Website</a>
     ·
     <a href="https://github.com/Amalsouthsudan23/amal.git/issues">Issues</a>
     ·
-    <a href="https://cal.com/roadmap">Roadmap</a>
   </p>
   
 Help Create A World Where Refugees Can Live With Dignity.
+
+## Technologies
+
+- [Firebase](https://firebase.google.com/)
+- [Google Map](https://maps.google.com/)
+- [React js](https://https://legacy.reactjs.org/)
+- [Formik](https://formik.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Getting Started
 
@@ -41,11 +47,15 @@ Before we install the project, Here is what you need to be able to run Amal:
     cd amal
 ```
 
-3. Choose Node.js version and install dependencies
+3. install dependencies
 
 ```bash
-    nvm
+    npn install
 ```
+4. Run project locally
+  ```bash
+      npn npm start
+  ```
 
 ### Database
 
