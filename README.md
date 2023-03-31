@@ -7,7 +7,7 @@
 
   <p align="center">
     What inspired us was being a refugee due to the civil war that took place in April 2016 made me experience the hardship that refugees goes through for example waiting  every month for d food and few basic requirements which doesnt Surstaine refugees for the whole month, poor health centers,  low education systems. Hence i wouldn’t like any human being to go pass through the same the experience.
-    <a href="https://inspirers.co">Website</a>
+    <a href="https://amal-v69u.onrender.com/">Website</a>
     ·
     <a href="https://github.com/Amalsouthsudan23/amal.git/issues">Issues</a>
     ·
@@ -32,7 +32,7 @@ Before we install the project, Here is what you need to be able to run Amal:
 1. Clone the project
 
 ```bash
-    git clone git@github.com:Emmanuel-Melon/inspirers.git
+    git clone https://github.com/Amalsouthsudan23/amal.git
 ```
 
 2. Navigate to the project

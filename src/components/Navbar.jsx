@@ -47,7 +47,7 @@ export default function Navbar() {
                     {profile.name.split(' ')[0]}
                     {/* <FiChevronDown className={`text-xl ml-1 duration-200 ${profileDropdwon ? 'rotate-[180deg]':''}`} /> */}
                   </span>
-                  {profileDropdwon && 
+                  {profileDropdwon === true && 
                     <div className="bg-gray-200 text-gray-600 rounded absolute right-0 top-full py-2">
                       <NavLink className="flex items-center hover:bg-orange hover:text-white cursor-pointer px-6 py-2" to='/accout'>
                         <FaUser className="text-sm mr-2" />

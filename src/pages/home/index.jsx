@@ -12,8 +12,8 @@ export default function HomePage() {
         {/* Start of header section */}
         <div className="bg-primary mb-8 px-5 py-6 rounded-3xl text-white text-center">
           <h1 className="text-2xl font-bold">Start Your Own Funding</h1>
-          <div className="text-xl">Create your own donation post</div>
-          <Link className="bg-white text-primary rounded mt-4 py-2 px-3" to='/donate'>
+          <div className="text-xl mb-4">Create your own donation post</div>
+          <Link className="bg-white text-primary rounded py-2 px-3" to='/donate'>
             Start Now
           </Link>
         </div>
