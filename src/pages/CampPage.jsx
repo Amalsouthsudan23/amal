@@ -23,7 +23,7 @@ export default function CampPage() {
         <img className="h-[180px] w-full rounded-xl my-3" src={currentCamp.image} alt='' />
         <div className="text-cente mb-6">
             <h2 className="text-xl">Mangala Camp</h2>
-            <p className='text-sm'>{currentCamp.detail} </p>
+            <p className='line-clamp text-sm'>{currentCamp.detail} </p>
         </div>
         <Link className="blcok my-5 px-3 py-2 bg-primary text-white rounded" to='/donate'>Make Donation</Link>
     </div>
