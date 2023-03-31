@@ -54,7 +54,7 @@ export default function Login() {
     }
 
   return (
-    <div className='flex items-center justify-center lg:bg-black bg-white lg:bg-opacity-80 h-screen fixed inset-0 z-50'>
+    <div className='flex items-center justify-center lg:bg-black bg-white lg:bg-opacity-80 h-[100vh] fixed inset-0 z-50'>
       <div className="lg:w-[30%] w-[82%] bg-white  rounded-md lg:p-14">
         <div 
           className="rounded-full cursor-pointer text-rose-500 fixed top-[.9rem] right-[.9rem] text-3xl"
