@@ -1,4 +1,4 @@
-import { FaGoogle, FaTwitter } from "react-icons/fa";
+import { FaGoogle, FaFacebook } from "react-icons/fa";
 import { GoogleAuthProvider, signInWithPopup, signInWithEmailAndPassword } from "firebase/auth"
 import { useGlobalContext } from "../../contexts/GlobalContextProvider";
 import { auth } from "../../config";
@@ -99,7 +99,7 @@ export default function Login() {
           </button>
           <button className="flex items-center justify-center text-white bg-blue-600 tex-xl w-full rounded py-3">
             Sign in with Facebook
-            <FaTwitter className='text-xl ml-2' />
+            <FaFacebook className='text-xl ml-2' />
           </button>
         </div>
         <div className="flex justify-center mt-6" onClick={() => setOpenModal('signup')}>
