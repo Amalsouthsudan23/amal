@@ -18,7 +18,7 @@ Help Create A World Where Refugees Can Live With Dignity.
 
 ## Getting Started
 
-Before we install the project, Here is what you need to be able to run Inspirers:
+Before we install the project, Here is what you need to be able to run Amal:
 
 - [Node.js (Version: >=16.x)](https://nodejs.org/en/download/)
 - [Git Bash](https://git-scm.com/downloads)
